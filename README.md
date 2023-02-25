@@ -13,3 +13,4 @@ Udemy Course: [100 Days of Code: The Complete Python Pro Bootcamp for 2023](http
 [Day01: ](day-01)Working with Variables in Python to Manage Data<br>
 [Day02: ](day-02)Understanding Data Types and How to Manipulate Strings<br>
 [Day03: ](day-03)Control Flow and Logical Operators<br>
+[Day04: ](day-04)Randomisation and Python Lists<br>
