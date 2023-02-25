@@ -51,3 +51,4 @@ elif user_choice>computer_choice:
 elif computer_choice>user_choice:
     print("You lose")
 
+#You can do each choice in seperate
